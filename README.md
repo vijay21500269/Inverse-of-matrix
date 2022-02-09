@@ -39,7 +39,7 @@ print(inverse)
 ~~~
 
 ## OUTPUT:
-![output]()
+![output](https://github.com/vijay21500269/Inverse-of-matrix/blob/main/Screenshot%20(8).png)
 
 ## RESULT:
 Thus the program is written to Inverse of matrix.
